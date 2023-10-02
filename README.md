@@ -2,7 +2,7 @@
 
 In this exercise, you'll practice connecting a "frontend" Vue application to a "backend" API which serves data stored in a database. When you have finished, you'll have a complete, end-to-end, full-stack web application.
 
-![Hotel Shopper](./hotel-shopper.png)
+![Holiday Hotel](./holiday-hotel.png)
 
 ## Application overview
 
