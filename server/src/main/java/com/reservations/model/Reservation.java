@@ -1,4 +1,4 @@
-package com.techelevator.reservations.model;
+package com.reservations.model;
 import org.springframework.beans.factory.annotation.Required;
 
 import javax.validation.constraints.*;

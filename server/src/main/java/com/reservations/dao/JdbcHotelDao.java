@@ -1,7 +1,7 @@
-package com.techelevator.reservations.dao;
+package com.reservations.dao;
 
-import com.techelevator.reservations.model.Address;
-import com.techelevator.reservations.model.Hotel;
+import com.reservations.model.Address;
+import com.reservations.model.Hotel;
 import org.springframework.jdbc.core.JdbcTemplate;
 import org.springframework.jdbc.support.rowset.SqlRowSet;
 import org.springframework.stereotype.Component;

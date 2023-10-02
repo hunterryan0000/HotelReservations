@@ -1,6 +1,6 @@
-package com.techelevator.reservations.dao;
+package com.reservations.dao;
 
-import com.techelevator.reservations.model.Hotel;
+import com.reservations.model.Hotel;
 
 import java.util.List;
 

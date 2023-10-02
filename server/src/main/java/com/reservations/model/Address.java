@@ -1,4 +1,4 @@
-package com.techelevator.reservations.model;
+package com.reservations.model;
 
 import java.util.UUID;
 

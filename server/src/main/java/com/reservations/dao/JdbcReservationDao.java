@@ -1,6 +1,6 @@
-package com.techelevator.reservations.dao;
+package com.reservations.dao;
 
-import com.techelevator.reservations.model.Reservation;
+import com.reservations.model.Reservation;
 import org.springframework.jdbc.core.JdbcTemplate;
 import org.springframework.jdbc.support.rowset.SqlRowSet;
 import org.springframework.stereotype.Component;

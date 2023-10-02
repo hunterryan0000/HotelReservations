@@ -1,9 +1,9 @@
-package com.techelevator.reservations.controllers;
+package com.reservations.controllers;
 
-import com.techelevator.reservations.dao.HotelDao;
-import com.techelevator.reservations.dao.ReservationDao;
-import com.techelevator.reservations.model.Hotel;
-import com.techelevator.reservations.model.Reservation;
+import com.reservations.dao.HotelDao;
+import com.reservations.dao.ReservationDao;
+import com.reservations.model.Hotel;
+import com.reservations.model.Reservation;
 import org.springframework.http.HttpStatus;
 import org.springframework.web.bind.annotation.*;
 import org.springframework.web.server.ResponseStatusException;
