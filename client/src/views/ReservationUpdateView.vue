@@ -73,7 +73,8 @@ export default {
 
   methods: {
     getReservation(id) {
-      console.log(id);  // prevents a "no-unused-vars" error
+      // eslint-disable-next-line no-console
+      //console.log(id);  // prevents a "no-unused-vars" error
       // Set the indicator that a call is in progress.
       this.isLoading = true;
 
