@@ -64,3 +64,7 @@ jobs:
         uses: actions/deploy-pages@v2
         with:
           deploy_dir: './client/dist'
+      - name: Setup Node.js
+        uses: actions/setup-node@v2
+        with:
+          node-version: '16'  # or another version
